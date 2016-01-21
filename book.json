@@ -1,5 +1,12 @@
 {
 	"structure": {
 		"readme": "0_intro.md"
+	},
+	"styles": {
+		"website": "font.css",
+		"ebook": "font.css",
+		"pdf": "font.css",
+		"mobi": "font.css",
+		"epub": "font.css"
 	}
 }
