@@ -13,6 +13,8 @@ GPLのもとでライセンスされた_rxTools_の開発に携わってきま�
 
 ARM946E-S™, ARM7™, ARM9™, ARM11™, MPCore™, CoreLink™はARMの商標です.
 
+MIPS™はMIPS Technologiesの商標です.
+
 PICA®はDMPの商標です.
 
 FCRAM®, Fast Cycle RAM®は富士通の商標です.
